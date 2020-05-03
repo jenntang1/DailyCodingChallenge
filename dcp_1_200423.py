@@ -6,6 +6,8 @@ def add_true_false(list=[], num=None):
     """
     Find if any two numbers from a given list
         adds up to the given number.
+    Note:
+        O(n^2) time complexity
     Args:
         list: list of numbers
         num: number to match to
