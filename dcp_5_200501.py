@@ -4,7 +4,7 @@
 
 def max_sum(list=[]):
     """
-    Find maximum sum of two non-adjacent numbers
+    Find maximum sum of non-adjacent numbers
     Note:
         O(n) time complexity
     Args:
